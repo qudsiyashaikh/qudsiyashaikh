@@ -1,56 +1,75 @@
-<br clear="both">
+<h1 align="center">Hi 👋, I'm Qudsiya ZamZam</h1>
+<h3 align="center">Frontend Web Developer | React Enthusiast | Creative Coder</h3>
 
-<h2 align="left">Hi 👋! My name is Qudsiya-Shaikh.</h2>
+<p align="center">
+  🌱 I love building responsive & accessible web applications <br>
+  🔭 Currently exploring React.js & UI/UX best practices <br>
+  📫 Reach me at: <a href="mailto:zinharkhan8@gmail.com">zinharkhan8@gmail.com</a>
+</p>
 
+---
 
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qudsiyashaikh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qudsiyashaikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+🎯 A passionate **Frontend Developer** from **Akola, Maharashtra**  
+💡 Skilled in building **Single Page Applications (SPA)** with **React.js**  
+🧩 Strong focus on **Component-Based Architecture**, **Web Accessibility (ARIA/WCAG)**, and **Performance Optimization**  
+🛠 Familiar with **Agile / Scrum** workflows and collaborative team environments  
+🔄 Proficient in **Version Control (Git & GitHub)**  
 
+---
 
+## 💻 Tech Stack
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+| Category            | Technologies                                   |
+|---------------------|------------------------------------------------|
+| 💻 Languages        | HTML5, CSS3, JavaScript (ES6+)                 |
+| ⚛️ Frameworks       | React.js, Tailwind CSS                         |
+| 🎨 Design Focus     | Responsive Design, UI/UX Principles,     |
+| 🔧 Tools & Versioning | Git, GitHub, VS Code                          |
+| 🚀 Deployment       | Vercel, Netlify, GitHub Pages                  |
 
+---
 
+## 📌 Featured Projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
+Here are some of my favorite projects you can check out:
 
+🔹 **[Portfolio Website](https://my-portfolio-rose-pi-23.vercel.app/)**  
+Built with React & Tailwind — shows all my work in one place.
 
+🔹 **Movie Ticket Booking App**  
+Javascript with seat selection, pricing logic, and clean UI.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
-</div>
+🔹 **Drawing App (JS)**  
+Canvas-based drawing board with color & brush control.
 
+🔹 **Password Generator (React)**  
+Create secure passwords with character type selection.
 
+🔹 **To-Do List (JavaScript)**  
+Basic to-do app with add/delete/check functionalities.
 
-<br clear="both">
+👉 *All projects are pinned below with README, screenshots, and live links.*
 
+---
 
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qudsiyashaikh&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qudsiyashaikh&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 Portfolio: [my-portfolio-rose-pi-23.vercel.app](https://my-portfolio-rose-pi-23.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/qudsiyashaikh](https://linkedin.com/in/qudsiyashaikh)
+- 💻 GitHub: [github.com/qudsiyashaikh](https://github.com/qudsiyashaikh)
+- ✉️ Email: zinharkhan8@gmail.com
+
+---
+
+> *“Turning ideas into clean, responsive web experiences — one line of code at a time.”*
