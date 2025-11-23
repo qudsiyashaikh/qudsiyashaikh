@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qudsiya ZamZam</h1>
-<h3 align="center">Frontend Web Developer | React Enthusiast | Creative Coder</h3>
+<h3 align="center">Full Stack Web Developer | React Enthusiast | Creative Coder</h3>
 
 <p align="center">
   🌱 I love building responsive & accessible web applications <br>
@@ -23,8 +23,8 @@
 
 | Category            | Technologies                                   |
 |---------------------|------------------------------------------------|
-| 💻 Languages        | HTML5, CSS3, JavaScript (ES6+)                 |
-| ⚛️ Frameworks       | React.js, Tailwind CSS                         |
+| 💻 Languages        | HTML5, CSS3, JavaScript (ES6+), php, Python                 |
+| ⚛️ Frameworks       | React.js, Tailwind CSS, Laravel, Django                         |
 | 🎨 Design Focus     | Responsive Design, UI/UX Principles,     |
 | 🔧 Tools & Versioning | Git, GitHub, VS Code                          |
 | 🚀 Deployment       | Vercel, Netlify, GitHub Pages                  |
