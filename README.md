@@ -1,75 +1,36 @@
 <h1 align="center">Hi 👋, I'm Qudsiya ZamZam</h1>
-<h3 align="center">Full Stack Web Developer | React Enthusiast | Creative Coder</h3>
+<h3 align="center">Full Stack Web Developer | Backend Specialist (Python/Django)</h3>
 
 <p align="center">
-  🌱 I love building responsive & accessible web applications <br>
-  🔭 Currently exploring React.js & UI/UX best practices <br>
-  📫 Reach me at: <a href="mailto:zinharkhan8@gmail.com">zinharkhan8@gmail.com</a>
+  A passionate developer from Akola, Maharashtra, focused on building robust backends with Python and Django. I enjoy solving algorithmic challenges and creating seamless user experiences.
 </p>
 
----
+## 🚀 Key Projects
 
-## 🚀 About Me
-
-🎯 A passionate **Frontend Developer** from **Akola, Maharashtra**  
-💡 Skilled in building **Single Page Applications (SPA)** with **React.js**  
-🧩 Strong focus on **Component-Based Architecture**, **Web Accessibility (ARIA/WCAG)**, and **Performance Optimization**  
-🛠 Familiar with **Agile / Scrum** workflows and collaborative team environments  
-🔄 Proficient in **Version Control (Git & GitHub)**  
+I build full-stack applications to solve real-world problems. Here are some featured projects (Full READMEs and Live Demos included):
 
 ---
 
-## 💻 Tech Stack
-
-| Category            | Technologies                                   |
-|---------------------|------------------------------------------------|
-| 💻 Languages        | HTML5, CSS3, JavaScript (ES6+), php, Python                 |
-| ⚛️ Frameworks       | React.js, Tailwind CSS, Laravel, Django                         |
-| 🎨 Design Focus     | Responsive Design, UI/UX Principles,     |
-| 🔧 Tools & Versioning | Git, GitHub, VS Code                          |
-| 🚀 Deployment       | Vercel, Netlify, GitHub Pages                  |
+### 1. **Hospital Management System** (Django)
+* **Description:** An independent, end-to-end full-stack solution for managing hospital operations, including doctor, patient, and appointment modules.
+* **Impact:** Solved complex backend logic, implemented Role-Based Access Control (RBAC), and orchestrated cloud deployment on Render.
+* **🔗 Links:**
+    * [📁 Repository](https://github.com/qudsiyashaikh/Management-Django)
+    * [🚀 Live Demo](https://management-django.onrender.com/)
 
 ---
 
-## 📌 Featured Projects
-
-Here are some of my favorite projects you can check out:
-
-🔹 **[Portfolio Website](https://my-portfolio-rose-pi-23.vercel.app/)**  
-Built with React & Tailwind — shows all my work in one place.
-
-🔹 **Movie Ticket Booking App**  
-Javascript with seat selection, pricing logic, and clean UI.
-
-🔹 **Drawing App (JS)**  
-Canvas-based drawing board with color & brush control.
-
-🔹 **Password Generator (React)**  
-Create secure passwords with character type selection.
-
-🔹 **To-Do List (JavaScript)**  
-Basic to-do app with add/delete/check functionalities.
-
-👉 *All projects are pinned below with README, screenshots, and live links.*
+### 2. **KisanSat Platform - Case Study** (Internship)
+* **Description:** A data-driven web platform developed during my internship at Yasham Software Services, focusing on backend-driven functionalities.
+* **Impact:** Engineered scalable backend modules and optimized database queries using Python, Django, and MySQL.
+* **🔗 Links:**
+    * [📁 Repository (Case Study)](https://github.com/qudsiyashaikh/KisanSat-platform-case-study)
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qudsiyashaikh&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qudsiyashaikh&layout=compact&theme=react&hide_border=true" width="48%" />
-</p>
+### 3. **Personal Portfolio** (React)
+* **Description:** A modern, responsive website highlighting my skills and showcasing my project timeline.
+* **🔗 Links:**
+    * [🚀 Live Demo](https://qudsiyashaikh.github.io/My-Portfolio/)
 
 ---
-
-## 🤝 Let's Connect
-
-- 🌐 Portfolio: [my-portfolio-rose-pi-23.vercel.app](https://my-portfolio-rose-pi-23.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/qudsiyashaikh](https://linkedin.com/in/qudsiyashaikh)
-- 💻 GitHub: [github.com/qudsiyashaikh](https://github.com/qudsiyashaikh)
-- ✉️ Email: zinharkhan8@gmail.com
-
----
-
-> *“Turning ideas into clean, responsive web experiences — one line of code at a time.”*
