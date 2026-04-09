@@ -34,3 +34,24 @@ I build full-stack applications to solve real-world problems. Here are some feat
     * [🚀 Live Demo](https://qudsiyashaikh.github.io/My-Portfolio/)
 
 ---
+## 🛠️ Skills
+
+<p align="center">
+  
+  <!-- Frontend -->
+  <b>Frontend:</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/><br/>
+
+  <!-- Backend -->
+  <b>Backend:</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,django" /><br/><br/>
+
+  <!-- Database -->
+  <b>Database:</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql" /><br/><br/>
+
+  <!-- Tools -->
+  <b>Tools & Technologies:</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</p>
