@@ -48,7 +48,7 @@ I build full-stack applications to solve real-world problems. Here are some feat
 
   <!-- Database -->
   <b>Database:</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br/><br/>
 
   <!-- Tools -->
   <b>Tools & Technologies:</b><br/>
