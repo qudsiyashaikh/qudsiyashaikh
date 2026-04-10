@@ -44,7 +44,7 @@ I build full-stack applications to solve real-world problems. Here are some feat
 
   <!-- Backend -->
   <b>Backend:</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,django" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel" /><br/><br/>
 
   <!-- Database -->
   <b>Database:</b><br/>
