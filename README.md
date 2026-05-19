@@ -1,57 +1,92 @@
-<h1 align="center">Hi 👋, I'm Qudsiya ZamZam</h1>
-<h3 align="center">Full Stack Web Developer | Backend Specialist (Python/Django)</h3>
+# Welcome to Qudsiya Shaikh's profile! 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi,+I'm+Qudsiya+Shaikh;Full-Stack+Developer;Python+%26+Django+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I am a passionate **Full-Stack Developer** focused on building robust backend systems and dynamic, responsive user interfaces. With hands-on experience in architecting Python-Django backends, designing RESTful APIs, and crafting clean frontend experiences, I love turning complex problems into elegant code.
+
+* 💻 **Currently working as:** Full-Stack Developer 
+* 🛠️ **Specialization:** Python, Django, FastAPI & React.js
+* ✍️ **Focus Areas:** Scalable Backends, REST APIs, Database Optimization, and Clean UI/UX
+* ✉️ **How to reach me:** qudsiyazamzam@gmail.com
+* 📁 **Portfolio:** [Check out my work](https://github.com/qudsiyaikh)
+
+---
+
+## 🛠️ My Tech Stack
+
+### 🐍 Programming Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Data Structures](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
+
+### 🚀 Frameworks & Libraries (Backend & Frontend)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=4C9689)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases & Cloud Deployment
+![MySQL](https://img.shields.io/badge/mysql-107293?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+### 🔧 Software & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Dynamic Stats Matrix
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qudsiyashaikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Qudsiya's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qudsiyashaikh&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📈 Contribution Streak & Activity
 <p align="center">
-  A passionate developer from Akola, Maharashtra, focused on building robust backends with Python and Django. I enjoy solving algorithmic challenges and creating seamless user experiences.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qudsiyashaikh&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 🚀 Key Projects
+---
 
-I build full-stack applications to solve real-world problems. Here are some featured projects (Full READMEs and Live Demos included):
+## 🎯 Highlighted Projects
+
+* 🏥 **Hospital Management System:** Full-stack Django platform with Role-Based Access Control (RBAC) and optimized database workflows. Deployed on Render.
+* 🌾 **KisanSat Platform:** Data-driven Django application integrated with Machine Learning concepts to improve data retrieval efficiency by 25%.
+* 💼 **Personal Portfolio:** Dynamic website built using FastAPI, Flask, and React.js to showcase web development skills and live GitHub integrations.
 
 ---
 
-### 1. **Hospital Management System** (Django)
-* **Description:** An independent, end-to-end full-stack solution for managing hospital operations, including doctor, patient, and appointment modules.
-* **Impact:** Solved complex backend logic, implemented Role-Based Access Control (RBAC), and orchestrated cloud deployment on Render.
-* **🔗 Links:**
-    * [📁 Repository](https://github.com/qudsiyashaikh/Management-Django)
-    * [🚀 Live Demo](https://management-django.onrender.com/)
-
----
-
-### 2. **KisanSat Platform - Case Study** (Internship)
-* **Description:** A data-driven web platform developed during my internship at Yasham Software Services, focusing on backend-driven functionalities.
-* **Impact:** Engineered scalable backend modules and optimized database queries using Python, Django, and MySQL.
-* **🔗 Links:**
-    * [📁 Repository (Case Study)](https://github.com/qudsiyashaikh/KisanSat-platform-case-study)
-
----
-
-### 3. **Personal Portfolio** (React)
-* **Description:** A modern, responsive website highlighting my skills and showcasing my project timeline.
-* **🔗 Links:**
-    * [🚀 Live Demo](https://qudsiyashaikh.github.io/My-Portfolio/)
-
----
-## 🛠️ Skills
+## 🌐 Connect With Me
 
 <p align="center">
-  
-  <!-- Frontend -->
-  <b>Frontend:</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/><br/>
+  <a href="https://linkedin.com/in/qudsiyashaikh" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:qudsiyazamzam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-  <!-- Backend -->
-  <b>Backend:</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel" /><br/><br/>
-
-  <!-- Database -->
-  <b>Database:</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br/><br/>
-
-  <!-- Tools -->
-  <b>Tools & Technologies:</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+<p align="center">
+  ⭐️ From <b>Qudsiya Shaikh</b> | Built with Python, Passion, and Coffee. ☕
 </p>
