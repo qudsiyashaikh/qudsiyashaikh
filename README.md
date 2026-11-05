@@ -14,7 +14,7 @@ I am a passionate **Full-Stack Developer** focused on building robust backend sy
 * 🛠️ **Specialization:** Python, Django, FastAPI & React.js
 * ✍️ **Focus Areas:** Scalable Backends, REST APIs, Database Optimization, and Clean UI/UX
 * ✉️ **How to reach me:** qudsiyazamzam@gmail.com
-* 📁 **Portfolio:** [Check out my work](https://github.com/qudsiyaikh)
+* 📁 **Portfolio:** [Check out my work](https://my-portfolio-rose-pi-23.vercel.app/)
 
 ---
 
