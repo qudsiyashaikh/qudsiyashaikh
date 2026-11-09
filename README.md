@@ -46,20 +46,8 @@ I am a passionate **Full-Stack Developer** focused on building robust backend sy
 
 ---
 
-## 📊 GitHub Dynamic Stats Matrix
 
-<div align="center">
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=qudsiyashaikh&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Qudsiya's GitHub Stats" />
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qudsiyashaikh&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages" />
-
-</div>
-### 📈 Contribution Streak & Activity
+## 📈 Contribution Streak & Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qudsiyashaikh&theme=tokyonight" alt="GitHub Streak" />
 </p>
