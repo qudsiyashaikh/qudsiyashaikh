@@ -58,7 +58,7 @@ I am a passionate **Full-Stack Developer** focused on building robust backend sy
 
 * 🏥 **Hospital Management System:** Full-stack Django platform with Role-Based Access Control (RBAC) and optimized database workflows. Deployed on Render.
 * 🌾 **KisanSat Platform:** Data-driven Django application integrated with Machine Learning concepts to improve data retrieval efficiency by 25%.
-* 💼 **Personal Portfolio:** Dynamic website built using FastAPI, Flask, and React.js to showcase web development skills and live GitHub integrations..
+* 💼 **Personal Portfolio:** Dynamic website built using FastAPI, Flask, and React.js to showcase web development skills and live GitHub integrations.
 
 ---
 
